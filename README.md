@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://web.facebook.com/sandaruwan.ekanayake.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandaruwan_fb" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sandaruwan-ekanayake-40556a2a5" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="sandruwan_linkedin" height="30" /></a>
-<a href="https://www.linkedin.com/in/sandaruwan-ekanayake-40556a2a5" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="sandruwan_instagram" height="30" /></a>
+<a href="https://www.instagram.com/sandaru_1_/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="sandruwan_instagram" height="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
