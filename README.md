@@ -89,9 +89,4 @@
 <!-- FIXED GITHUB ANALYTICS SECTION -->
 ### 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sandaruwan00&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandaruwan00&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="165" />
-  <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandaruwan00&theme=radical" alt="GitHub Streak" />
-</div>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sandaruwan00&show_icons=true&locale=en" alt="Sandaruwan00" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandaruwan00&" alt="Sandaruwan00" /></p>
