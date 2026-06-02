@@ -87,10 +87,4 @@
 ---
 
 ### 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sandaruwan00&locale=en&layout=compact&theme=radical" alt="Top Languages" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandaruwan00&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="150" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sandaruwan00&theme=radical" alt="GitHub Streak" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sandaruwan00&show_icons=true&locale=en&layout=compact" alt="Sandaruwan00" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sandaruwan00&show_icons=true&locale=en" alt="Sandaruwan00" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandaruwan00&" alt="Sandaruwan00" /></p>
