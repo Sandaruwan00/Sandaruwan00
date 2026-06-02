@@ -89,4 +89,4 @@
 <!-- FIXED GITHUB ANALYTICS SECTION -->
 ### 📊 GitHub Statistics
 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandaruwan00&" alt="Sandaruwan00" /></p>
+ <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandaruwan00&" alt="Sandaruwan00" /></p>
