@@ -86,12 +86,11 @@
 
 ---
 
-<!-- GITHUB ANALYTICS WITH UNIFIED THEME -->
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sandaruwan00&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandaruwan00&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sandaruwan00&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandaruwan00&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="150" />
 </p>
 
 <p align="center">
